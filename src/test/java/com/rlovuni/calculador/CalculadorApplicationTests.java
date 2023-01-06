@@ -1,4 +1,4 @@
-package com.rlov.calculador;
+package com.rlovuni.calculador;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
